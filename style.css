@@ -113,6 +113,11 @@ th, td, tr{
     background-color: rgba(220, 38, 13, 0.9)
 }
 
+.btn-view{
+    font-size: 0.6em;
+    background-color: rgba(140, 17, 255, 0.9)
+}
+
 .tabela {
     padding: 0;
 }
